@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agentmain/src/main/java/AgentMemShell/Evil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/agentmain/src/main/java/AgentMemShell/jars/AgentMain2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/agentmain/src/main/java/AgentMemShell/jars/AgentMaker.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/premain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/premain/src/main/java/jars/AgentMaker.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/META-INF" charset="GBK" />
+  </component>
+</project>
